@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="bug" Count="212" ExcerptPostId="10096" WikiPostId="10095" />
+  <row Id="2" TagName="feature-request" Count="309" />
+  <row Id="3" TagName="discussion" Count="2333" ExcerptPostId="11020" WikiPostId="11019" />
+  <row Id="5" TagName="status-completed" Count="201" />
+  <row Id="6" TagName="status-declined" Count="10" />
+  <row Id="7" TagName="status-bydesign" Count="38" />
+  <row Id="13" TagName="support" Count="557" ExcerptPostId="10406" WikiPostId="10405" />
+  <row Id="14" TagName="style" Count="18" />
+  <row Id="17" TagName="tags" Count="156" />
+  <row Id="19" TagName="subjective-topics" Count="3" />
+  <row Id="21" TagName="appropriate-questions" Count="77" />
+  <row Id="24" TagName="editor" Count="4" />
+  <row Id="31" TagName="beta-essentials" Count="9" />
+  <row Id="32" TagName="on-topic-off-topic" Count="137" ExcerptPostId="4028" WikiPostId="4027" />
+  <row Id="39" TagName="etiquette" Count="22" />
+  <row Id="40" TagName="editing" Count="64" />
+  <row Id="41" TagName="reputation" Count="55" />
+  <row Id="42" TagName="questions" Count="87" ExcerptPostId="7957" WikiPostId="7956" />
+  <row Id="43" TagName="comments" Count="102" />
+  <row Id="44" TagName="badges" Count="31" />
+  <row Id="45" TagName="answers" Count="58" />
+  <row Id="46" TagName="search" Count="15" />
+  <row Id="47" TagName="voting" Count="12" />
+  <row Id="48" TagName="bounty" Count="19" ExcerptPostId="10145" WikiPostId="10144" />
+  <row Id="49" TagName="user-interface" Count="18" />
+  <row Id="50" TagName="specific-question" Count="46" />
+  <row Id="51" TagName="accepted-answer" Count="12" />
+  <row Id="52" TagName="markdown" Count="12" />
+  <row Id="53" TagName="stackexchange" Count="4" />
+  <row Id="54" TagName="community-wiki" Count="9" />
+  <row Id="55" TagName="down-votes" Count="55" />
+  <row Id="56" TagName="openid" Count="0" />
+  <row Id="57" TagName="migration" Count="47" />
+  <row Id="58" TagName="vote-to-close" Count="54" />
+  <row Id="59" TagName="exact-duplicates" Count="16" />
+  <row Id="60" TagName="notifications" Count="4" />
+  <row Id="61" TagName="users" Count="7" />
+  <row Id="62" TagName="closed-questions" Count="119" />
+  <row Id="63" TagName="hyperlinks" Count="13" />
+  <row Id="64" TagName="data-dump" Count="1" />
+  <row Id="65" TagName="asking-questions" Count="14" />
+  <row Id="66" TagName="recent-activity" Count="1" />
+  <row Id="67" TagName="new-users" Count="16" />
+  <row Id="68" TagName="profile-page" Count="5" />
+  <row Id="69" TagName="flagging" Count="64" />
+  <row Id="70" TagName="chat" Count="19" ExcerptPostId="7400" WikiPostId="7399" />
+  <row Id="71" TagName="unanswered-questions" Count="5" />
+  <row Id="72" TagName="retagging" Count="11" />
+  <row Id="73" TagName="moderation" Count="31" />
+  <row Id="74" TagName="data-explorer" Count="0" />
+  <row Id="75" TagName="close-reasons" Count="102" />
+  <row Id="76" TagName="user-accounts" Count="19" />
+  <row Id="77" TagName="formatting" Count="23" />
+  <row Id="78" TagName="interesting-tags" Count="0" />
+  <row Id="79" TagName="up-votes" Count="10" />
+  <row Id="80" TagName="meta" Count="20" />
+  <row Id="81" TagName="statistics" Count="6" />
+  <row Id="82" TagName="login" Count="4" />
+  <row Id="83" TagName="rss" Count="1" />
+  <row Id="84" TagName="favorites" Count="0" />
+  <row Id="85" TagName="deleted-questions" Count="28" />
+  <row Id="86" TagName="tagging" Count="20" />
+  <row Id="87" TagName="votes" Count="9" />
+  <row Id="88" TagName="tag-synonyms" Count="69" ExcerptPostId="9650" WikiPostId="9649" />
+  <row Id="89" TagName="pronunciation" Count="16" />
+  <row Id="90" TagName="etymology" Count="14" />
+  <row Id="91" TagName="ipa" Count="7" />
+  <row Id="93" TagName="featured" Count="0" />
+  <row Id="94" TagName="retag-request" Count="30" />
+  <row Id="95" TagName="answering-advice" Count="19" />
+  <row Id="104" TagName="design" Count="106" />
+  <row Id="113" TagName="spam" Count="13" />
+  <row Id="114" TagName="advertising" Count="4" />
+  <row Id="117" TagName="answer-howto" Count="5" />
+  <row Id="118" TagName="moderators" Count="14" />
+  <row Id="119" TagName="election" Count="25" />
+  <row Id="120" TagName="faq" Count="11" ExcerptPostId="10408" WikiPostId="10407" />
+  <row Id="121" TagName="status-norepro" Count="9" />
+  <row Id="122" TagName="status-reproduced" Count="1" />
+  <row Id="123" TagName="status-planned" Count="0" />
+  <row Id="124" TagName="status-deferred" Count="0" />
+  <row Id="125" TagName="status-review" Count="0" />
+  <row Id="127" TagName="twitter" Count="4" />
+  <row Id="129" TagName="site" Count="5" />
+  <row Id="130" TagName="scope" Count="17" ExcerptPostId="10176" WikiPostId="10175" />
+  <row Id="131" TagName="feedback" Count="7" />
+  <row Id="134" TagName="conferences" Count="2" />
+  <row Id="135" TagName="site-promotion" Count="14" ExcerptPostId="9531" WikiPostId="9530" />
+  <row Id="141" TagName="tag-wiki" Count="11" />
+  <row Id="147" TagName="resources" Count="43" />
+  <row Id="149" TagName="appropriate-answers" Count="13" />
+  <row Id="155" TagName="css" Count="14" />
+  <row Id="156" TagName="copyrights" Count="8" />
+  <row Id="159" TagName="experts" Count="2" />
+  <row Id="162" TagName="titles" Count="13" ExcerptPostId="5472" WikiPostId="5471" />
+  <row Id="164" TagName="general-reference" Count="22" />
+  <row Id="169" TagName="images" Count="8" />
+  <row Id="173" TagName="request" Count="4" />
+  <row Id="176" TagName="moderator-tools" Count="11" />
+  <row Id="179" TagName="list-question" Count="4" />
+  <row Id="181" TagName="swag" Count="3" />
+  <row Id="182" TagName="tools" Count="3" />
+  <row Id="184" TagName="blog" Count="11" />
+  <row Id="185" TagName="community" Count="8" />
+  <row Id="187" TagName="flag-reviews" Count="10" />
+  <row Id="194" TagName="proposed-edits" Count="2" />
+  <row Id="195" TagName="flag-history" Count="5" />
+  <row Id="198" TagName="timestamps" Count="3" />
+  <row Id="200" TagName="audience" Count="2" />
+  <row Id="202" TagName="duplicates" Count="57" />
+  <row Id="203" TagName="translation" Count="4" />
+  <row Id="204" TagName="community-ads" Count="8" />
+  <row Id="205" TagName="revisions" Count="3" />
+  <row Id="211" TagName="site-faq" Count="9" />
+  <row Id="215" TagName="suggested-edits" Count="12" />
+  <row Id="217" TagName="10k-tools" Count="3" />
+  <row Id="218" TagName="mobile" Count="3" />
+  <row Id="220" TagName="deleted-posts" Count="33" ExcerptPostId="4264" WikiPostId="4263" />
+  <row Id="236" TagName="merged-questions" Count="8" ExcerptPostId="10656" WikiPostId="10655" />
+  <row Id="240" TagName="deleting-posts" Count="16" />
+  <row Id="243" TagName="suspension" Count="5" />
+  <row Id="244" TagName="low-quality-posts" Count="24" />
+  <row Id="246" TagName="protected-questions" Count="9" ExcerptPostId="11141" WikiPostId="11140" />
+  <row Id="248" TagName="question-closure" Count="37" ExcerptPostId="6587" WikiPostId="6586" />
+  <row Id="249" TagName="winterbash" Count="11" ExcerptPostId="7404" WikiPostId="7403" />
+  <row Id="251" TagName="online-resources" Count="23" ExcerptPostId="3808" WikiPostId="3807" />
+  <row Id="254" TagName="single-word-requests" Count="32" ExcerptPostId="11625" WikiPostId="11624" />
+  <row Id="256" TagName="scraping" Count="5" />
+  <row Id="260" TagName="ell" Count="23" ExcerptPostId="4067" WikiPostId="4066" />
+  <row Id="265" TagName="question-restrictions" Count="2" />
+  <row Id="266" TagName="unicorns" Count="2" ExcerptPostId="4347" WikiPostId="4346" />
+  <row Id="267" TagName="winterbash-2013" Count="6" />
+  <row Id="268" TagName="typographical-errors" Count="3" />
+  <row Id="269" TagName="flags" Count="8" />
+  <row Id="270" TagName="review" Count="10" />
+  <row Id="272" TagName="spelling" Count="2" />
+  <row Id="274" TagName="offensive" Count="8" />
+  <row Id="276" TagName="use-mention" Count="2" />
+  <row Id="279" TagName="reference" Count="15" />
+  <row Id="283" TagName="courtesy" Count="2" />
+  <row Id="284" TagName="community-building" Count="3" />
+  <row Id="286" TagName="self-governance" Count="10" />
+  <row Id="290" TagName="banned" Count="3" />
+  <row Id="293" TagName="attribution" Count="3" />
+  <row Id="294" TagName="trolling" Count="7" />
+  <row Id="296" TagName="research-effort" Count="7" />
+  <row Id="300" TagName="site-cleanup" Count="5" />
+  <row Id="301" TagName="review-queues" Count="18" />
+  <row Id="304" TagName="question-requirements" Count="2" />
+  <row Id="307" TagName="policy" Count="7" />
+  <row Id="308" TagName="license" Count="2" />
+  <row Id="315" TagName="american-english" Count="5" />
+  <row Id="316" TagName="dupehammer" Count="3" ExcerptPostId="7144" WikiPostId="7143" />
+  <row Id="318" TagName="display" Count="4" />
+  <row Id="319" TagName="chat-faq" Count="5" ExcerptPostId="7402" WikiPostId="7401" />
+  <row Id="320" TagName="winterbash-2015" Count="7" />
+  <row Id="329" TagName="homework-questions" Count="2" />
+  <row Id="330" TagName="bowdlerization" Count="7" />
+  <row Id="332" TagName="cross-posting" Count="4" />
+  <row Id="333" TagName="quotes" Count="4" />
+  <row Id="334" TagName="best-practices" Count="5" />
+  <row Id="336" TagName="redacting-edits" Count="2" />
+  <row Id="340" TagName="avatar" Count="1" ExcerptPostId="9327" WikiPostId="9326" />
+  <row Id="343" TagName="content-disputes" Count="3" ExcerptPostId="9383" WikiPostId="9382" />
+  <row Id="344" TagName="guideline" Count="2" ExcerptPostId="9423" WikiPostId="9422" />
+  <row Id="347" TagName="burninate-request" Count="6" ExcerptPostId="9463" WikiPostId="9462" />
+  <row Id="348" TagName="plagiarism" Count="2" />
+  <row Id="349" TagName="accessibility" Count="2" ExcerptPostId="9753" WikiPostId="9752" />
+  <row Id="350" TagName="vote-to-reopen" Count="15" />
+  <row Id="352" TagName="deletion" Count="3" />
+  <row Id="353" TagName="help-pages" Count="4" />
+  <row Id="354" TagName="font" Count="2" />
+  <row Id="355" TagName="usernames" Count="2" />
+  <row Id="357" TagName="canonical-question" Count="12" />
+  <row Id="371" TagName="top-bar" Count="3" />
+  <row Id="374" TagName="locked-question" Count="9" />
+  <row Id="377" TagName="ngrams" Count="6" ExcerptPostId="11315" WikiPostId="11314" />
+  <row Id="381" TagName="theme-2018" Count="8" />
+  <row Id="382" TagName="code-of-conduct" Count="2" />
+</tags>
